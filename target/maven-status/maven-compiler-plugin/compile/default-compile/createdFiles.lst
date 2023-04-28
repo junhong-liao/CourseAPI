@@ -1,0 +1,6 @@
+com/pluralsight/courseinfo/cli/CourseRetriever.class
+com/pluralsight/courseinfo/cli/service/PluralsightCourse.class
+com/pluralsight/courseinfo/cli/sslhelper/SSLHelper$NullX509TrustManager.class
+com/pluralsight/courseinfo/cli/service/CourseRetrievalService.class
+com/pluralsight/courseinfo/cli/sslhelper/SSLHelper.class
+com/pluralsight/courseinfo/cli/sslhelper/SSLHelper$NullHostnameVerifier.class
